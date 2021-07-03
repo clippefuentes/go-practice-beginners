@@ -28,6 +28,6 @@ func main () {
 	s1 := square{
 		sides: 3,
 	}
-	fmt.Printf("Circle C of 3 radius has the area of %v", c1.area())
+	fmt.Printf("Circle C of 3 radius has the area of %v \n", c1.area())
 	fmt.Printf("Squarew S of 3 sides has the area of %v", s1.area())
 }
