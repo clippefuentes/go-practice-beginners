@@ -6,7 +6,7 @@ import (
 	"sync"
 )
 
-func main() {
+func main () {
 	fmt.Println("CPUs:", runtime.NumCPU())
 	fmt.Println("Goroutines:", runtime.NumGoroutine())
 
