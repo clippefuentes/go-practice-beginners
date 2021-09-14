@@ -34,7 +34,7 @@ queries:
 		for i, w := range words {
 			switch q {
 			case "and", "or", "the":
-				break searchw
+				break search
 			}
 			if w == qWord {
 				fmt.Printf("#%d: %s \n", i+1, w)
