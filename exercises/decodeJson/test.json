@@ -1,0 +1,13 @@
+[{
+    "username": "clyne"
+}, {
+    "username": "rich",
+    "perms": {
+        "admin": true
+    }
+}, {
+    "username": "yna",
+    "perms": {
+        "admin": false
+    }
+}]
